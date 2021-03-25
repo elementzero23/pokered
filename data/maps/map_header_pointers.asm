@@ -244,7 +244,7 @@ MapHeaderPointers::
 	dw PalletLake_h ; UNUSED_MAP_F1
 	dw PalletLakeHouse_h ; UNUSED_MAP_F2
 	dw PalletLakeCaveB1F_h ; UNUSED_MAP_F3
-	dw PalletLakeCaveB1F_h ; UNUSED_MAP_F4
+	dw PalletLakeCaveB2F_h ; UNUSED_MAP_F4
 	dw LoreleisRoom_h
 	dw BrunosRoom_h
 	dw AgathasRoom_h ;247

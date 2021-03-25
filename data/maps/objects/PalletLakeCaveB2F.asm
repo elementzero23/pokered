@@ -2,6 +2,7 @@ PalletLakeCaveB2F_Object:
 	db $03 ; border block
 
 	def_warps
+	warp  5,  15, 2, PALLET_LAKE_CAVE_B1F
 
 	def_signs
 
