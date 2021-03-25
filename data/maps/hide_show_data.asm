@@ -243,7 +243,7 @@ MapHSPointers:
 	dw NoHS
 	dw NoHS
 	dw NoHS
-	dw NoHS ; F1
+	dw PalletLakeHS ; F1 (Pallet Lake)
 	dw NoHS ; F2
 	dw NoHS ; F3
 	dw NoHS ; F4
@@ -560,3 +560,5 @@ SeafoamIslandsB4FHS:
 	db SEAFOAM_ISLANDS_B4F, $02, HIDE
 	db SEAFOAM_ISLANDS_B4F, $03, SHOW
 	db $FF, $01, SHOW ; end
+PalletLakeHS:
+	db PALLET_LAKE, $01, SHOW

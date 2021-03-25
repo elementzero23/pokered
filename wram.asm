@@ -2816,8 +2816,10 @@ wSeafoamIslandsB4FCurScript::
 	ds 1
 wRoute18Gate1FCurScript::
 	ds 1
+wPalletLakeCurScript::
+	ds 1 ; decreased the next skip by one for this
 
-	ds 78
+	ds 77
 wGameProgressFlagsEnd::
 
 	ds 56
