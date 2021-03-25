@@ -1222,3 +1222,24 @@ INCLUDE "data/maps/headers/AgathasRoom.asm"
 INCLUDE "scripts/AgathasRoom.asm"
 INCLUDE "data/maps/objects/AgathasRoom.asm"
 AgathasRoom_Blocks: INCBIN "maps/AgathasRoom.blk"
+
+
+INCLUDE "data/maps/headers/PalletLake.asm"
+INCLUDE "scripts/PalletLake.asm"
+INCLUDE "data/maps/objects/PalletLake.asm"
+PalletLake_Blocks: INCBIN "maps/PalletLake.blk"
+
+INCLUDE "data/maps/headers/PalletLakeHouse.asm"
+INCLUDE "scripts/PalletLakeHouse.asm"
+INCLUDE "data/maps/objects/PalletLakeHouse.asm"
+PalletLakeHouse_Blocks: INCBIN "maps/PalletLakeHouse.blk"
+
+INCLUDE "data/maps/headers/PalletLakeCaveB1F.asm"
+INCLUDE "scripts/PalletLakeCaveB1F.asm"
+INCLUDE "data/maps/objects/PalletLakeCaveB1F.asm"
+PalletLakeCaveB1F_Blocks: INCBIN "maps/PalletLakeCaveB1F.blk"
+
+INCLUDE "data/maps/headers/PalletLakeCaveB2F.asm"
+INCLUDE "scripts/PalletLakeCaveB2F.asm"
+INCLUDE "data/maps/objects/PalletLakeCaveB2F.asm"
+PalletLakeCaveB2F_Blocks: INCBIN "maps/PalletLakeCaveB2F.blk"

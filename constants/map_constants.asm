@@ -259,10 +259,10 @@ FIRST_INDOOR_MAP EQU const_value
 	mapconst UNUSED_MAP_EE,                  0,  0 ; $EE
 	mapconst TRADE_CENTER,                   4,  5 ; $EF
 	mapconst COLOSSEUM,                      4,  5 ; $F0
-	mapconst UNUSED_MAP_F1,                  0,  0 ; $F1
-	mapconst UNUSED_MAP_F2,                  0,  0 ; $F2
-	mapconst UNUSED_MAP_F3,                  0,  0 ; $F3
-	mapconst UNUSED_MAP_F4,                  0,  0 ; $F4
+	mapconst PALLET_LAKE, 					 9, 10 ;UNUSED_MAP_F1,                  0,  0 ; $F1
+	mapconst PALLET_LAKE_HOUSE, 			 4,  4 ;UNUSED_MAP_F2,                  0,  0 ; $F2
+	mapconst PALLET_LAKE_CAVE_B1F, 			 9, 15 ;UNUSED_MAP_F3,                  0,  0 ; $F3
+	mapconst PALLET_LAKE_CAVE_B2F,			 9,  5 ;UNUSED_MAP_F4,                  0,  0 ; $F4
 	mapconst LORELEIS_ROOM,                  6,  5 ; $F5
 	mapconst BRUNOS_ROOM,                    6,  5 ; $F6
 	mapconst AGATHAS_ROOM,                   6,  5 ; $F7
