@@ -5,7 +5,7 @@ PalletLake_Script:
     jp CallFunctionInTable
 
 PalletLake_ScriptPointers:
-    dw PalletLakeScript0
+	dw PalletLakeScript0
 
 PalletLakeScript0: ; hide the guy when starter was picked
     CheckEvent EVENT_OAK_APPEARED_IN_PALLET

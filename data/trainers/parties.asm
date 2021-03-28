@@ -77,6 +77,8 @@ YoungsterData:
 	db 18, NIDORAN_M, NIDORINO, 0
 ; Unused
 	db 17, SPEAROW, RATTATA, RATTATA, SPEAROW, 0
+; Pallet Lake House
+	db 3, RATTATA, 0
 
 BugCatcherData:
 ; Viridian Forest

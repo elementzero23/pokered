@@ -265,6 +265,7 @@ INCLUDE "text/SaffronCity.asm"
 INCLUDE "data/text/text_6.asm"
 
 INCLUDE "text/PalletLake.asm"
+INCLUDE "text/PalletLakeHouse.asm"
 
 
 SECTION "Text 11", ROMX

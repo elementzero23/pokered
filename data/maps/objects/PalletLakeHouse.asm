@@ -8,5 +8,6 @@ PalletLakeHouse_Object:
 	def_signs
 
 	def_objects
+	object SPRITE_YOUNGSTER,  5, 5, STAY, LEFT, 1, OPP_YOUNGSTER, 14 ; trainer 0
 
 	def_warps_to PALLET_LAKE_HOUSE
